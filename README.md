@@ -18,7 +18,7 @@ pnpm envio dev
 
 Visit http://localhost:8080 to see the GraphQL Playground, local password is `testing`.
 
-### Dice Outcome Event Data
+### Transfer Event Data
 
 ```graphql
 query MyQuery {
